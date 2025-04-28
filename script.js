@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Countdown Timer
     function calculateCountdown() {
-        const weddingDate = new Date('2025-05-05T15:00:00'); // Set your wedding date and time here (e.g., 3:00 PM)
+        const weddingDate = new Date('2025-05-05T16:30:00'); // Set your wedding date and time here (e.g., 3:00 PM)
         const currentDate = new Date();
         let timeRemaining = weddingDate - currentDate;
 
